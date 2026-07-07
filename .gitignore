@@ -1,0 +1,13 @@
+# Ignora o arquivo de senhas real
+.env
+
+# Ignora a pasta de downloads para não subir os PDFs no GitHub
+Faturas_Baixadas/
+
+# Ignora o ambiente virtual do Python
+venv/
+env/
+
+# Ignora arquivos de cache do Python
+__pycache__/
+*.pyc
